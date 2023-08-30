@@ -18,7 +18,7 @@ With security in mind, our manager has asked me to make a thorough investigation
 •	Distributed Denial of Service (DDoS) attack protection for any solutions migrated to your cloud provider of choice.<br>
 <br>
 My Solution <br>
-<p><img src="QuantumAccounting.png" alt="Qunatum Accounting Hybrid Network Security" width="900" height="600"></p>
+<p><img src="QuantumAccounting.drawio.png" alt="Qunatum Accounting Hybrid Network Security" width="900" height="600"></p>
 <br>
 
 
