@@ -1,6 +1,6 @@
 # cloud-and-on-premise-security-plan
 <b>A case study to develop a cloud and on-premise security plan.</b> <br>
-A client’s consists of both on-premise functionality as well as public cloud solutions, we needed to ensure that security is at the forefront on the design.<br>
+A client’s infrastructure consists of both on-premise functionality as well as public cloud solutions, we needed to ensure that security is at the forefront on the design.<br>
 As an accounting company, they must ensure that it complies to all financial regulations, together with satisfying all GDPR policies – especially around the storage and security of customer’s data.<br>
 It is stipulated that all customer data around financial records must be kept for a minimum of 10 years, as before - with enterprise customers (companies of more than 5,000 employees) data being retained for a minimum of 15 years.<br>
 With security in mind, our manager has asked me to make a thorough investigation of our client’s existing on-premise and cloud-based architecture.  My recommendations on how the networks can be improved made me consider the following:<br>
